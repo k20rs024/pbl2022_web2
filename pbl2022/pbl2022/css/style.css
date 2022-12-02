@@ -1,0 +1,14 @@
+.wrapper {
+  margin-right: auto; 
+  margin-left:  auto; 
+  max-width: 960px;  
+  padding-right: 10px; 
+  padding-left:  10px; 
+}
+#navbar {
+  background-color: rgb(248, 152, 8);
+  color: rgb(240, 177, 83);
+  text-align: right;
+  vertical-align:middle;
+  min-height: 20pt;
+}
